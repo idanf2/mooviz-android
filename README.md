@@ -1,2 +1,2 @@
 # mooviz-android
-![](https://photos.app.goo.gl/DHfYofuRXPd1djH7A "Main screen")
+![](https://drive.google.com/uc?export=view&id=1DBYICIJ7coTMajMjk_6SJw-Rmnt0NL-p "Main Sceen")
