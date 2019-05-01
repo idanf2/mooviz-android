@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/genere_all"
+            android:title="All" />
+        <item
+            android:id="@+id/genere_action"
+            android:title="Action" />
+        <item
+            android:id="@+id/genere_adventure"
+            android:title="Adventure" />
+        <item
+            android:id="@+id/genere_animation"
+            android:title="Animation" />
+        <item
+            android:id="@+id/genere_comedy"
+            android:title="Comedy" />
+        <item
+            android:id="@+id/genere_crime"
+            android:title="Crime" />
+        <item
+            android:id="@+id/genere_documentary"
+            android:title="Documentary" />
+        <item
+            android:id="@+id/genere_drama"
+            android:title="Drama" />
+        <item
+            android:id="@+id/genere_family"
+            android:title="Family" />
+        <item
+            android:id="@+id/genere_fantasy"
+            android:title="Fantasy" />
+        <item
+            android:id="@+id/genere_history"
+            android:title="History" />
+        <item
+            android:id="@+id/genere_horror"
+            android:title="Horror" />
+        <item
+            android:id="@+id/genere_music"
+            android:title="Music" />
+        <item
+            android:id="@+id/genere_mystery"
+            android:title="Mystery" />
+        <item
+            android:id="@+id/genere_romance"
+            android:title="Romance" />
+        <item
+            android:id="@+id/genere_science_fiction"
+            android:title="Science Fiction" />
+        <item
+            android:id="@+id/genere_tv_movie"
+            android:title="TV Movie" />
+        <item
+            android:id="@+id/genere_thriller"
+            android:title="Thriller" />
+        <item
+            android:id="@+id/genere_war"
+            android:title="War" />
+        <item
+            android:id="@+id/genere_western"
+            android:title="Western" />
+    </group>
+</menu>

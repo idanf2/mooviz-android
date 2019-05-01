@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mooviz</string>
+    <string name="search_movie">Search Movie...</string>
+    <string name="nav_header_title">Choose genre</string>
+</resources>
